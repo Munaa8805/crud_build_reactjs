@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Munaa8805/crud_build/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Munaa8805/crud_build/static/js/main.4bab5267.chunk.js",
-    "main.js.map": "/Munaa8805/crud_build/static/js/main.4bab5267.chunk.js.map",
-    "runtime-main.js": "/Munaa8805/crud_build/static/js/runtime-main.1801da06.js",
-    "runtime-main.js.map": "/Munaa8805/crud_build/static/js/runtime-main.1801da06.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/Munaa8805/crud_build/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c5b6b6e5.chunk.js": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js",
-    "static/js/2.c5b6b6e5.chunk.js.map": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js.map",
-    "index.html": "/Munaa8805/crud_build/index.html",
-    "precache-manifest.b90a6f441695d500dd9917232bec5cb6.js": "/Munaa8805/crud_build/precache-manifest.b90a6f441695d500dd9917232bec5cb6.js",
-    "service-worker.js": "/Munaa8805/crud_build/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/Munaa8805/crud_build/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/Munaa8805/crud_build/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c5b6b6e5.chunk.js.LICENSE.txt": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js.LICENSE.txt"
+    "main.css": "/crud_build_reactjs/static/css/main.5f361e03.chunk.css",
+    "main.js": "/crud_build_reactjs/static/js/main.ccdba994.chunk.js",
+    "main.js.map": "/crud_build_reactjs/static/js/main.ccdba994.chunk.js.map",
+    "runtime-main.js": "/crud_build_reactjs/static/js/runtime-main.e5f215d4.js",
+    "runtime-main.js.map": "/crud_build_reactjs/static/js/runtime-main.e5f215d4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/crud_build_reactjs/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c5b6b6e5.chunk.js": "/crud_build_reactjs/static/js/2.c5b6b6e5.chunk.js",
+    "static/js/2.c5b6b6e5.chunk.js.map": "/crud_build_reactjs/static/js/2.c5b6b6e5.chunk.js.map",
+    "index.html": "/crud_build_reactjs/index.html",
+    "precache-manifest.d93b8eb0594fc3ba5f2feddbe285ce07.js": "/crud_build_reactjs/precache-manifest.d93b8eb0594fc3ba5f2feddbe285ce07.js",
+    "service-worker.js": "/crud_build_reactjs/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/crud_build_reactjs/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/crud_build_reactjs/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c5b6b6e5.chunk.js.LICENSE.txt": "/crud_build_reactjs/static/js/2.c5b6b6e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1801da06.js",
+    "static/js/runtime-main.e5f215d4.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c5b6b6e5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4bab5267.chunk.js"
+    "static/js/main.ccdba994.chunk.js"
   ]
 }
