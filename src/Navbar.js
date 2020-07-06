@@ -5,7 +5,7 @@ export default function Navbar(props) {
   return (
     <div className="navbar">
       <div className="navbar ">
-        <Link className="navbar-item" to="/">
+        <Link className="navbar-item" to="/crud">
           Бүртгэлүүд
         </Link>
         <Link className="navbar-item ml-4" to="/">
