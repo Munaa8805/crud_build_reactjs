@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44af3b8a641ab1f29c92616717e88f22",
+    "revision": "ea2cb932bf7cceb3d839f1a48ab883fa",
     "url": "/Munaa8805/crud_build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Munaa8805/crud_build/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6e42aaff4addbb823305",
+    "revision": "a6bbac2c69ad939ed193",
     "url": "/Munaa8805/crud_build/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e42aaff4addbb823305",
-    "url": "/Munaa8805/crud_build/static/js/main.233d8201.chunk.js"
+    "revision": "a6bbac2c69ad939ed193",
+    "url": "/Munaa8805/crud_build/static/js/main.4bab5267.chunk.js"
   },
   {
     "revision": "a85e3bd9cbb8c1da75cb",
