@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Munaa8805/crud_build/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Munaa8805/crud_build/static/js/main.233d8201.chunk.js",
+    "main.js.map": "/Munaa8805/crud_build/static/js/main.233d8201.chunk.js.map",
+    "runtime-main.js": "/Munaa8805/crud_build/static/js/runtime-main.1801da06.js",
+    "runtime-main.js.map": "/Munaa8805/crud_build/static/js/runtime-main.1801da06.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Munaa8805/crud_build/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c5b6b6e5.chunk.js": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js",
+    "static/js/2.c5b6b6e5.chunk.js.map": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js.map",
+    "index.html": "/Munaa8805/crud_build/index.html",
+    "precache-manifest.4c7d76586cf3e3deb80ac2d1bfa44aa8.js": "/Munaa8805/crud_build/precache-manifest.4c7d76586cf3e3deb80ac2d1bfa44aa8.js",
+    "service-worker.js": "/Munaa8805/crud_build/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Munaa8805/crud_build/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Munaa8805/crud_build/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c5b6b6e5.chunk.js.LICENSE.txt": "/Munaa8805/crud_build/static/js/2.c5b6b6e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1801da06.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.c5b6b6e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.233d8201.chunk.js"
+  ]
+}
